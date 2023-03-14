@@ -1,5 +1,7 @@
 # Matrix Discovery
 
+A little go web server to serve the URIs `/.well-known/matrix/server` and `/.well-known/matrix/client`.
+
 ## Configuration
 
 This configuration can be set in the YAML files for Kubernetes or Swarm.
